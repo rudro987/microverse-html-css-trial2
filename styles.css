@@ -1,0 +1,52 @@
+body{
+    margin:0;
+    text-align:center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+    color: #333;
+    line-height:1.5;
+    font-size:1rem;
+}
+h1{
+    font-size:3rem;
+    margin-bottom: 0;
+}
+section{
+    display:block;
+}
+#main{
+    background:#eee;
+    padding:15px;
+    margin:30px 8px;
+    border-radius:10px;
+}
+#img-div{
+    max-width:100%;
+    height:auto;
+    background:#ffffff;
+}
+#img-caption{
+    padding:15px;
+}
+#tribute-info{
+    padding: 15px;
+}
+ul{
+    padding:25px;
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+li{
+    margin:16px 0;
+}
+.testimony{
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+a{
+    color:#477ca7;
+}
